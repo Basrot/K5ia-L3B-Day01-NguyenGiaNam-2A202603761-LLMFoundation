@@ -10,9 +10,9 @@
 
 | Tệp | Có? |
 | --- | --- |
-| [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, còn output | ☐ |
-| [`lab1_report.json`](lab1_report.json) — do ô "Báo cáo cuối" sinh ra | ☐ |
-| [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | ☐ |
+| [`day01_lab.ipynb`]((../day01_lab.ipynb) — notebook đã chạy, còn output | ☐ |
+| [`lab1_report.json`](../lab1_report.json) — do ô "Báo cáo cuối" sinh ra | ☐ |
+| [`hand_calc.jpg`](../hand_calc.png) — ảnh tính tay có các bước | ☐ |
 Dữ liệu sau loại bản ghi trùng tuyệt đối: **5.169 tin** (653 spam, 4.516 ham). Chia tập: train **3.619**, validation **775**, test **775** (91 spam); tập SUB gồm **40** tin. Lưu ý: kết quả 9/9 là các kiểm tra chức năng chính trong JSON, không đồng nghĩa mọi ô và phần tính tay đã được xác nhận.
 m sử dụng bộ dữ liệu gồm **5.169 SMS** sau khi loại tin trùng, trong đó có 653 spam và 4.516 ham. Tập test có 775 tin và tập SUB có 40 tin.
 
