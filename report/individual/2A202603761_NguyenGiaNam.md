@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
+﻿# Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
 > Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
@@ -71,3 +71,4 @@ Nếu tin nhắn khó phân loại, em sẽ cân nhắc dùng MiniLM + LogReg đ
 | Cách viết báo cáo từ kết quả LAB | Tổng hợp số liệu và gợi ý cách diễn đạt | Em đối chiếu bảng kết quả, rút ngắn phần giải thích và giữ các chỗ cần xác minh |
 
 Qua bài LAB, em hiểu rằng **F1 cao chưa chắc mô hình đã phù hợp để triển khai**, vì còn phải xem tốc độ và chi phí. Em cũng thấy các tin nhắn spam viết giống người thật có thể làm mô hình dựa vào từ khóa dự đoán sai. Lần sau em sẽ chú ý lưu đầy đủ output để dễ đối chiếu kết quả.
+
